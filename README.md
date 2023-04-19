@@ -1,2 +1,2 @@
 # AC02-IMPACTA
-Atividade para nota Full Stack
+Esta é uma atividade da matéria Full-Stack para a faculdade impacta
